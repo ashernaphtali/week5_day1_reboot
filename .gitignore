@@ -1,2 +1,4 @@
 notes.txt
 my_venv
+.env
+__pycache__
